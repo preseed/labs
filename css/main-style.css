@@ -132,9 +132,6 @@
 .masthead {
     margin-top: 5%;
 }
-#front_img{
-    display: initial !important;
-}
 .navbar-custom a {
   color: #778899;
 }
@@ -161,4 +158,10 @@
     padding-left:10px;
     padding-right: 10px;
 }
+body {
+  overflow-x: hidden;
+}
+}
+#front_img{
+    display: initial !important;
 }
