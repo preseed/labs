@@ -157,4 +157,8 @@
   .navbar-fixed-top, .navbar-fixed-bottom {
      position: sticky !important;
     }
+.text_handling {
+    padding-left:10px;
+    padding-right: 10px;
+}
 }
