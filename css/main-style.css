@@ -150,6 +150,7 @@
   }
   .sm-links {
     position: relative !important;
+    padding-top: 12px !important;
   }
   .navbar-fixed-top, .navbar-fixed-bottom {
      position: sticky !important;
